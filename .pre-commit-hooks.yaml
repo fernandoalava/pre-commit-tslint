@@ -3,4 +3,4 @@
   entry: tslint
   language: node
   files: \.(ts|tsx)$
-  additional_dependencies: ["tslint@5.11.0"]
+  additional_dependencies: ["tslint@5.11.0", "typescript@3.0.3"]
