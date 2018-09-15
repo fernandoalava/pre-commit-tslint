@@ -1,0 +1,5 @@
+{
+  "name": "pre-commit-tslint",
+  "description": "tslint pre-commit hook",
+  "version": "1.0.0"
+}
