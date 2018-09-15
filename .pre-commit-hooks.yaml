@@ -1,0 +1,5 @@
+- id: tslint
+  name: tslint
+  entry: tslint
+  language: node
+  files: \.(ts|tsx)$
